@@ -1,0 +1,24 @@
+# Ignore datasets (very important)
+CodeFiles/Datasets/
+
+# Ignore large files
+*.zip
+*.csv
+*.h5
+*.ckpt
+*.npy
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+
