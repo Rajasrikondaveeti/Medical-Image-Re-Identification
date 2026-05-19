@@ -102,5 +102,5 @@ python --version
 
 ## 📩 Contact
 
-For any questions or issues, please reach out to the project author.
+For any questions or issues, please reach out.
 
